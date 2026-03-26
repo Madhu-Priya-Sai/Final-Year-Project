@@ -24,8 +24,8 @@ It also integrates **Automatic Speech Recognition (ASR)** to process videos with
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/adaptive-llm-summarization.git
-cd adaptive-llm-summarization
+git clone https://github.com/Madhu-Priya-Sai/Final-Year-Project.git
+cd Final-Year-Project
 
 
 
