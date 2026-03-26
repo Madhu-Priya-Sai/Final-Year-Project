@@ -97,8 +97,8 @@ This project is developed as part of the research work:
 If you use this code or build upon this work, please cite the corresponding research paper.
 
 🔗 Repository & DOI
-GitHub: https://github.com/your-username/adaptive-llm-summarization
-DOI: https://doi.org/xxxxx
+GitHub: https://github.com/Madhu-Priya-Sai/Final-Year-Project
+DOI: https://doi.org/10.5281/zenodo.19230012
 🙌 Acknowledgment
 
 This project was developed as part of a Bachelor of Technology (B.Tech) final year project in Information Technology.
